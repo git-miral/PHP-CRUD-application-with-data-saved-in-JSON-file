@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "Amira Hammami",
+        "username": "Mira",
+        "email": "amira@gmail.com",
+        "phone": "282654754",
+        "website": "miratech.com"
+
+
+
+
+    },
+
+
+    {
+        "id":2,
+        "name": "sana Hammami",
+        "username": "Sira",
+        "email": "sana@gmail.com",
+        "phone": "22654754",
+        "website": "Siratech.com"
+
+
+
+
+    },
+
+
+    {
+        "id": 3,
+        "name": "Salima Hammami",
+        "username": "salira",
+        "email": "salima@gmail.com",
+        "phone": "2654754",
+        "website": "Salima.com"
+
+
+
+
+    },
+
+
+    {
+        "id": 4,
+        "name": "Khaled Hammami",
+        "username": "kalo",
+        "email": "kaled@gmail.com",
+        "phone": "282678654754",
+        "website": "das.com"
+
+
+
+
+    },
+
+
+    {
+        "id":5,
+        "name": "Imen Hammami",
+        "username": "Emy",
+        "email": "imen@gmail.com",
+        "phone": "2654754",
+        "website": "Emy.com"
+
+
+
+
+    },
+
+
+    {
+        "id": 6,
+        "name": "amin Hammami",
+        "username": "mino",
+        "email": "amin@gmail.com",
+        "phone": "282698754754",
+        "website": "Amo.com"
+
+
+
+
+    }
+
+
+
+
+]
